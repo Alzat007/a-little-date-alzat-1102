@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">等着和你见面的小狗</title>
+  <desc id="desc">一只奶油色的小狗，垂着软软的耳朵，眯眼微笑，吐着小舌头，旁边飘着两颗粉色爱心。</desc>
+  <g stroke="#40352F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 48C23 46 17 58 18 76C19 94 25 112 35 112C46 111 52 91 49 69C47 56 42 49 34 48Z" fill="#E8BF8C"/>
+    <path d="M126 48C137 46 143 58 142 76C141 94 135 112 125 112C114 111 108 91 111 69C113 56 118 49 126 48Z" fill="#E8BF8C"/>
+    <path d="M29 64C25 74 26 87 31 96" stroke="#C99665" stroke-width="2.2"/>
+    <path d="M131 64C135 74 134 87 129 96" stroke="#C99665" stroke-width="2.2"/>
+    <path d="M51 42C55 31 64 26 73 29C77 20 88 21 93 30C103 26 112 32 113 41C127 49 133 63 132 81C135 99 127 116 112 126C102 133 91 137 80 137C68 137 57 133 47 126C32 116 25 99 28 81C27 63 34 49 51 42Z" fill="#FFF4DB"/>
+    <path d="M51 42C59 38 63 42 65 47M73 29C72 37 77 41 82 42M93 30C95 36 94 42 90 46" stroke="#E9CFAB" stroke-width="2.2"/>
+    <path d="M42 90C42 79 50 72 59 74C68 75 72 83 70 92" fill="#F4E1BF" stroke="none"/>
+    <path d="M118 90C118 79 110 72 101 74C92 75 88 83 90 92" fill="#F4E1BF" stroke="none"/>
+    <path d="M49 83C53 77 61 77 65 83M95 83C99 77 107 77 111 83" stroke-width="3.3"/>
+    <path d="M49 67L58 64M111 67L102 64" stroke="#B48A5E" stroke-width="2.3"/>
+    <ellipse cx="43" cy="96" rx="10" ry="6" fill="#F2B1B4" stroke="none"/>
+    <ellipse cx="117" cy="96" rx="10" ry="6" fill="#F2B1B4" stroke="none"/>
+    <path d="M80 94C70 83 56 87 53 98C50 110 60 121 72 119C77 119 80 117 80 117C80 117 83 119 88 119C100 121 110 110 107 98C104 87 90 83 80 94Z" fill="#FFFCF1" stroke="none"/>
+    <path d="M70 94C70 89 90 89 90 94C90 99 83 104 80 104C77 104 70 99 70 94Z" fill="#40352F" stroke="none"/>
+    <path d="M75 93C77 92 80 92 82 93" stroke="#847266" stroke-width="1.8"/>
+    <path d="M67 109C69 118 74 124 80 124C86 124 91 118 93 109" fill="#40352F"/>
+    <path d="M73 116C73 113 77 111 80 113C83 111 87 113 87 116L86 123C85 128 75 128 74 123L73 116Z" fill="#ED97A5" stroke-width="2"/>
+    <path d="M80 115V120" stroke="#CB6F84" stroke-width="1.6"/>
+    <path d="M80 103V107C80 112 72 115 67 109M80 107C80 112 88 115 93 109"/>
+    <path d="M33 107L38 108M122 108L127 107" stroke="#DEC29B" stroke-width="2"/>
+  </g>
+  <path d="M18 29C11 21 2 28 7 35C10 39 17 43 17 43C17 43 24 37 26 33C30 24 21 21 18 29Z" fill="#EAA3C0"/>
+  <path d="M143 21C139 15 132 20 135 25C137 28 142 31 142 31C142 31 147 27 149 24C152 18 146 16 143 21Z" fill="#D2B4E1"/>
+  <path d="M145 119L148 122M149 113L153 114M140 124L141 128" stroke="#EAA3C0" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
